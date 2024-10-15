@@ -11,7 +11,60 @@
 
 ---
 
-I'm a **Computer Engineering** student at **L J University** with a passion for **Full-Stack Development**, **DBMS**, and solving real-world challenges through **problem-solving**. I enjoy learning new technologies, building projects, and improving my skills in **TypeScript**, **Next.js**, and **Django**.
+I am Yash Parekh Nimishkumar, a **Computer Engineering student**  with a deep interest in **software development** 💻 and solving complex technical challenges . I specialize in **Python , Django, React , and Next.js, and have experience with database management, real-time communication systems with WebSocket, and AI-powered applications**. I am constantly looking to learn new technologies 🚀, enhance my skills, and build innovative projects that make a real-world impact .
+
+---
+
+## Connect with me  
+<div align="center">
+<a href="mailto:yashnparekh2005@gmail.com" target="_blank">
+<img src=
+  https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://x.com/Y_A_S_H_007" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/yash_parekh_9293b83556519" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashnparekh/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100081121778578" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/yashnparekh2005/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/YashNParekh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+---
+
+## 🛠️ Languages and Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -34,29 +87,15 @@ I'm a **Computer Engineering** student at **L J University** with a passion for 
 ## 🛠️ Skills:
 
 - **Programming Languages**: Java, Python, HTML
-- **Frameworks & Libraries**: Django, React, Next.js
-- **Technologies**: WebSockets, OpenCV, Selenium
-- **Tools**: Git, PostgreSQL, MongoDB
-- **Database Management**: Strong foundation in DBMS and system optimization
-
----
-
-## Tech Stack
-![Python](https://img.shields.io/badge/-Python-blue)
-![Java](https://img.shields.io/badge/-Java-orange)
-![Django](https://img.shields.io/badge/-Django-green)
-![Next.js](https://img.shields.io/badge/-Next.js-black)
-![React](https://img.shields.io/badge/-React-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **Frameworks & Libraries**: Django, React, OpenCv, JavaScript, Next.js, Node, Express ,WebSockets, Selenium
+- **Tools / Platforms** : Git, VS Code, Docker, PyCharm
+- **Databases** : SQL (MySQL/PostgreSQL), MongoDB
 
 ---
 
 
-## 📫 How to reach me:
-
-- **Email**: yashnparekh2005@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yashparekh)
-- **GitHub**: [GitHub Profile](https://github.com/YashParekh)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YashNParekh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ---
 
