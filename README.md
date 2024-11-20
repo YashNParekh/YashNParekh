@@ -73,7 +73,10 @@ I am Yash Parekh Nimishkumar, a **Computer Engineering student**  with a deep in
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YashNParekh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div  ><img src="https://github-readme-stats.vercel.app/api?username=YashNParekh&show_icons=true&count_private=true&hide_border=true"  /></div> 
+<div >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashNParekh&layout=compact&hide_border=true"  />
+</div>
 
 ---
 
