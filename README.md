@@ -1,82 +1,126 @@
-# Hi there, I'm Yash Parekh 👋
+<p align="center">
+  <a href="https://github.com/YashNParekh">
+    <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Header" width="100%"/>
+  </a>
+</p>
 
-**Passionate Software Developer | Full-Stack Enthusiast | Problem Solver**
 
-- 🎓 Currently pursuing Computer Engineering at **LJIET, L J University** (3rd Year).
-- 💻 Focused on **Full-Stack Development**, with a passion for working on **DBMS**, **problem-solving**, and creating innovative applications.
-- 🛠️ Skilled in **Python**, **Java**, **Django**, **Next.js**, **React**, and **Web Development**.
-- ⭐ 5-star Python rating on **HackerRank**.
-- 🔧 Experience with **WebSockets** for live chat, screensharing, and video calls.
-- 🌐 Developed projects including a **Spotify Clone**, **League Of Legends**, **Jarvis Personal Assistant**, **AI Zone**, **Metro Route Finder**, and **AI-powered Airbnb Clone**.
+# 👋 Hi there, I'm **Yash Parekh**  
+### *(Yash Parekh Nimishkumar)*
 
----
-
-I am Yash Parekh Nimishkumar, a **Computer Engineering student**  with a deep interest in **software development** 💻 and solving complex technical challenges . I specialize in **Python , Django, React , and Next.js, and have experience with database management, real-time communication systems with WebSocket, and AI-powered applications**. I am constantly looking to learn new technologies 🚀, enhance my skills, and build innovative projects that make a real-world impact .
+**Full-Stack Developer | AI & Automation Enthusiast | Integration Engineer**
 
 ---
 
-## Connect with me  
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashnparekh2005@gmail.com)  [![X](https://img.shields.io/badge/X-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/Y_A_S_H_007)  [![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yash_parekh_9293b83556519)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashnparekh/)  [![Facebook](https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081121778578)  [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashnparekh2005/)  [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashNParekh)  
+## 🚀 About Me
 
-
----
-
-## 🛠️ Languages and Tools:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 **Computer Engineering Student (3rd Year, LJIET – L J University)**
+- 💻 Full-stack developer with strong skills in **Python, Django, Next.js, React, WebSockets & AI**
+- 🤖 Built advanced AI systems (Jarvis, AI-powered clones, OpenCV automation)
+- 🔗 Experience with **PayPal, Stripe, Authorize.Net, QBWC & third-party integrations**
+- 🧪 Strong problem solver with experience in DBMS, algorithms & automation
+- ⭐ **5-Star Python (HackerRank)**
+- ⚡ Building both **software products** and **enterprise-level integrations**
 
 ---
 
-## 🌟 Projects :
+# 🧩 Featured Projects
 
-- **Jarvis Personal Assistant** (Python, OpenCV, Groq)
-  - Hand gesture control, multilingual interactions, and music downloads.
-  
-- **Spotify Clone** (Java, MySQL, Java Swing)
-  - Search and play music, create and manage playlists.
-
-- **Metro Route Finder** (JavaScript, DFS, Graph Algorithms)
-  - Find the shortest route between metro stations.
-
-- **AI-Powered Airbnb Clone** (Django, React)
-  - AI chatbot integrated for smart interaction with property listings.
+## 🚀 **Enterprise Integrations**
+| Project | Description |
+|--------|-------------|
+| 🔗 **PayPal Partner Referrals API (React + AWS Lambda)** | Merchant onboarding + subscription automation |
+| 💳 **Stripe + Authorize.Net Integration** | Multi-gateway secure payment flow |
+| 🧾 **QuickBooks Desktop Integration (Salesforce + QBWC)** | SOAP → Salesforce → QB Desktop data sync |
 
 ---
 
-## 🛠️ Skills:
-
-- **Programming Languages**: Java, Python, HTML
-- **Frameworks & Libraries**: Django, React, OpenCv, JavaScript, Next.js, Node, Express ,WebSockets, Selenium
-- **Tools / Platforms** : Git, VS Code, Docker, PyCharm
-- **Databases** : SQL (MySQL/PostgreSQL), MongoDB
+## 🤖 **AI & Full-Stack Projects**
+| Project | Description |
+|--------|-------------|
+| 🧠 **Jarvis Personal Assistant** | Python + OpenCV + hand gestures + multilingual chatbot |
+| 🎮 **League of Legends Clone** | AI + OpenCV automations, scripts, UI |
+| 🎵 **Spotify Clone** | Java + MySQL + Swing – full music system |
+| 🚇 **Metro Route Finder** | DFS, graph algorithms, shortest path logic |
+| 🏡 **AI-Powered Airbnb Clone** | Django + React + chatbot integration |
+| 💬 **Live Chat / Screen Share / WebRTC Apps** | Built using WebSockets & Node |
 
 ---
 
+# 🛠️ Skills & Technologies (Animated Grid)
 
-## Github Stats  
-<div  ><img src="https://github-readme-stats.vercel.app/api?username=YashNParekh&show_icons=true&count_private=true&hide_border=true"  /></div> 
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashNParekh&layout=compact&hide_border=true"  />
+### 🔥 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" width="60"/>
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" width="60"/>
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" width="60"/>
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" width="60"/>
+</p>
+
+### 🤖 AI / Tools / Others
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,selenium,git,github,docker,postman" width="60"/>
+</p>
+
+### ☁️ Integrations & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp" width="60"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+### ⭐ **Salesforce Agentforce Badge**
+<p>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/agentforce-badge.png" width="160" />
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashnparekh2005@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Y_A_S_H_007)
+[![Dev.to](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yash_parekh_9293b83556519)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashnparekh/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashnparekh2005/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashNParekh)
+
+---
+
+# 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashNParekh&show_icons=true&count_private=true&hide_border=true" />
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashNParekh&layout=compact&hide_border=true" />
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+![Snake Animation](https://github.com/YashNParekh/YashNParekh/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<p align="center">
+  <a href="https://github.com/YashNParekh">
+    <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" width="100%"/>
+  </a>
+</p>
